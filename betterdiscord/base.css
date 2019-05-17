@@ -2527,18 +2527,18 @@ html, span:not(.spinner-item) {
 }
 {
 /* User Popout */
-.userPopout-3XzG_A .activity-11LB_k {background-color: rgba(0,0,0,.0)}
-.userPopout-3XzG_A .header-2BwW8b,#app-mount .userPopout-3XzG_A .body-3iLsc4,#app-mount .userPopout-3XzG_A .footer-1fjuF6,
-.userPopout-3XzG_A .quickMessage-1yeL4E,#app-mount .userPopout-3XzG_A .note-3kmerW textarea:focus {background: var(--userlight)!important}
-.userPopout-3XzG_A .tip-2ab612,#app-mount .userPopout-3XzG_A .bodyTitle-Y0qMQz {color: var(--text)}
-.userPopout-3XzG_A .quickMessage-1yeL4E {border-color: var(--bc)}
+#app-mount .userPopout-3XzG_A .activity-11LB_k {background-color: rgba(0,0,0,.0)}
+#app-mount .userPopout-3XzG_A .header-2BwW8b,#app-mount .userPopout-3XzG_A .body-3iLsc4,#app-mount .userPopout-3XzG_A .footer-1fjuF6,
+#app-mount .userPopout-3XzG_A .quickMessage-1yeL4E,#app-mount .userPopout-3XzG_A .note-3kmerW textarea:focus {background: var(--userlight)!important}
+#app-mount .userPopout-3XzG_A .tip-2ab612,#app-mount .userPopout-3XzG_A .bodyTitle-Y0qMQz {color: var(--text)}
+#app-mount .userPopout-3XzG_A .quickMessage-1yeL4E {border-color: var(--bc)}
 /* User Popout Large */
-.topSectionNormal-2-vo2m,#app-mount .body-3ND3kc {background-color: rgba(0, 0, 0, 0.92)}
+#app-mount .topSectionNormal-2-vo2m,#app-mount .body-3ND3kc {background-color: rgba(0, 0, 0, 0.92)}
 .topSectionPlaying-1J5E4n {background: rgba(0, 2, 113, 0.9)}
 .topSectionSpotify-1lI0-P {background: rgba(0, 191, 67, 0.9)}
 .tabBarContainer-1s1u-z {border-top: none;padding-left: 130px}
-.listRow-hutiT_:hover {background: var(--sc);color:#000}
+#app-mount .listRow-hutiT_:hover {background: var(--sc);color:#000}
 .guildNick-3uAm3i {color:#fff}
-.connectedAccount-36nQx7 {border-color: var(--bc)}
-.userInfoSection-2acyCx+.userInfoSection-2acyCx {border: none}
+#app-mount .connectedAccount-36nQx7 {border-color: var(--bc)}
+#app-mount .userInfoSection-2acyCx+.userInfoSection-2acyCx {border: none}
 }
