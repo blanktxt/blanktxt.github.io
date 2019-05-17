@@ -2524,7 +2524,8 @@ html, span:not(.spinner-item) {
 }
 #permissions-modal .role-item:hover {
 	background: rgba(var(--vtransparencycolor),var(--vtransparencyalpha)) !important;
-
+}
+{
 /* User Popout */
 .userPopout-3XzG_A .activity-11LB_k {background-color: rgba(0,0,0,.0)}
 .userPopout-3XzG_A .header-2BwW8b,#app-mount .userPopout-3XzG_A .body-3iLsc4,#app-mount .userPopout-3XzG_A .footer-1fjuF6,
