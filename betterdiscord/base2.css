@@ -1,3 +1,4 @@
+//META{"name":"test","description":"test","author":"blanktxt","version":"1.0"}*//
 .theme-dark .chat>.content .messages .message-group .comment .markup{
 	color:orange;
 }
