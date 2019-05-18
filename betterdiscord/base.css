@@ -548,6 +548,12 @@ input:disabled {
 .modal-3HD5ck .footer-2yfCgX {
 	box-shadow: inset 0 1px 0 rgba(var(--vtransparencycolor),.1) !important;
 }
+.wrapper-3WhCwL {
+    color: #ff0000; !important;
+    background-color: rgba(114,137,218,.1);
+}
+
+}
 .modal-3HD5ck .header-1R_AjF + .inner-3wn6Q5,
 .modal-3HD5ck .header-1R_AjF + .scrollerWrap-2lJEkd > .scroller-2FKFPG {
 	padding-top: 10px;
