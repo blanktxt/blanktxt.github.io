@@ -33,6 +33,10 @@
 	background: var(--vbackground) center/cover !important;
 	filter: blur(var(--vbackgroundblur)) !important;
 }
+.wrapper-3WhCwL:after {
+    color: #ff0000; !important;
+    background-color: rgba(114,137,218,.1);
+}
 
 .wrapper-3Q5DdO {
 	background: rgba(var(--vtransparencycolor),calc(var(--vtransparencyalpha) * 3)) !important;
@@ -546,10 +550,6 @@ input:disabled {
 }
 .modal-3HD5ck .footer-2yfCgX {
 	box-shadow: inset 0 1px 0 rgba(var(--vtransparencycolor),.1) !important;
-}
-.wrapper-3WhCwL > .scroller-2FKFPG {
-    color: #ff0000; !important;
-    background-color: rgba(114,137,218,.1);
 }
 
 }
