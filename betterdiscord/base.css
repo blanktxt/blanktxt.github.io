@@ -34,7 +34,7 @@
 	filter: blur(var(--vbackgroundblur)) !important;
 }
 .wrapper-3WhCwL:after {
-    color: #ff0000; !important;
+    color: rgb(var(--vaccentcolor));
     background-color: rgba(114,137,218,.1);
 }
 
