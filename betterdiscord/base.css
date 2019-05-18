@@ -20,7 +20,7 @@
 	--vpopoutblur: var(--popoutblur,var(--dblur));
 	--vbackdropblur: var(--backdropblur,var(--dblur));
 }
-.theme-dark .wrapper-3WhCwL {
+.wrapper-3WhCwL {
     color: #ff1919;	!important;
     background-color: rgba(114,137,218,.1);
 }
