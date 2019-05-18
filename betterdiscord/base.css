@@ -51,10 +51,6 @@
 
 }
 
-.wrapper-3WhCwL {
-    color: #ff1919;	!important;
-}
-
 .emptySearchResults-1ba__I,
 .bd-modal-body,
 .pageWrapper-1PgVDX,
@@ -707,6 +703,11 @@ img[src="/assets/bfffd518c76d3f6bc5e96eb52e4ae2cf.svg"],
 .downloadApps-wbBFdZ .inner-2LETmR {
 	overflow-y: scroll;
 }
+
+.wrapper-3WhCwL {
+    color: #ff1919;	!important;
+}
+
 
 /* ----------------------- COLORING ----------------------- */
 
