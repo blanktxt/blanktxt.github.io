@@ -19,11 +19,6 @@
 	--vbackgroundblur: var(--backgroundblur,var(--dblur));
 	--vpopoutblur: var(--popoutblur,var(--dblur));
 	--vbackdropblur: var(--backdropblur,var(--dblur));
-}
-.wrapper-3WhCwL {
-    color: #ff1919;	!important;
-    background-color: rgba(114,137,218,.1);
-}
 	
 }
 
@@ -53,6 +48,12 @@
 	filter: blur(var(--vbackdrop)) !important;
 	opacity: 1 !important;
 	animation: none !important;
+
+}
+
+.wrapper-3WhCwL {
+    color: #ff1919;	!important;
+    background-color: rgba(114,137,218,.1);
 }
 
 .emptySearchResults-1ba__I,
