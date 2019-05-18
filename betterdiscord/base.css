@@ -51,14 +51,10 @@
 
 }
 
-.wrapper-3WhCwL {
-    color: #ff1919;	!important;
-}
 .emptySearchResults-1ba__I,
 .bd-modal-body,
 .pageWrapper-1PgVDX,
 .container-16j22k,
-.wrapper-3WhCwL,
 .appMount-3lHmkl,
 .popout-2sKjHu,
 .noChannel-Z1DQK7,
@@ -746,6 +742,7 @@ img[src="/assets/bfffd518c76d3f6bc5e96eb52e4ae2cf.svg"],
 .round-2jCFai.checked-3_4uQ9[style*="background-color: rgb(67, 181, 129)"] {
 	background: rgb(var(--vaccentcolor)) !important;
 }
+.wrapper-3WhCwL:hover,
 .shareButton-3w0M74:hover,
 .interactive-1FxC7B:hover,
 .button-2b6hmh:hover,
