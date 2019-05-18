@@ -20,6 +20,12 @@
 	--vpopoutblur: var(--popoutblur,var(--dblur));
 	--vbackdropblur: var(--backdropblur,var(--dblur));
 }
+.theme-dark .wrapper-3WhCwL {
+    color: #ff1919;
+    background-color: rgba(114,137,218,.1);
+}
+	
+}
 
 .container-16j22k:before,
 .appMount-3lHmkl:before {
