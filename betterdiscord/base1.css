@@ -3,6 +3,8 @@
 @import "https://monstrousdev.github.io/themes/addons/filter.css";
 @import "https://www.themonster.xyz/styles/google-fonts.css";
 
+/* variables */
+
 :root {
 	--theme-name: "P5 Fox";
   --theme-version: "0.1";
