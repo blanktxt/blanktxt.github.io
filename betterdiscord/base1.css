@@ -1,3 +1,8 @@
+@import "https://fontlibrary.org/face/horta"; /* 'HortaRegular' */
+@import "https://monstrousdev.github.io/themes/addons/user-tags.css";
+@import "https://monstrousdev.github.io/themes/addons/filter.css";
+@import "https://www.themonster.xyz/styles/google-fonts.css";
+
 :root {
 	--theme-name: "P5 Fox";
   --theme-version: "0.1";
@@ -41,6 +46,63 @@
 
 }
 
+/* ==== TABLE OF CONTENTS ====
+*  ========== STATIC ==========
+*  I. App Window
+*  II. Title Bar
+*  III. Channel Area
+*     A. Channels Header
+*     B. Channel Groups and Individual Channels
+*     C. User Settings and Voice Connection
+*     D. Private Channels
+*     
+*  IV. Guilds Area
+*     A. Guilds Header
+*     B. Guild Styles
+*
+*  V. Pages
+*     A. Main Areas
+*       1. Embeds, Code Blocks, and Invites
+*       2. Login Page
+*       3. Download Discord
+*     B. Members List
+*     C. Top Bar & Typing Status
+*     D. Cards and Tiles
+*     E. Buttons, Switches, and Bars
+*     F. Change SVGs
+*
+*  VI. Top Layers
+*  VII. ScrollBars
+*
+*
+*  ========== MODALS AND POPOUTS ==========
+*  VIII. Menus
+*     A. Server Menu
+*     B. User Status
+*     C. Context Menu
+*     D. Dropdown Menus
+*  IX. Popouts
+*     A. User Popout
+*     B. Message Popout
+*     C. Search Popout & Results
+*     D. Attach Popout, Add Game popout
+*     E. Tooltips & Notices
+*     F. Autocomplete & Everyone Popout
+*     G. Gift Nitro and Gif Picker
+*     H. Emoji Picker
+*     I. Game Preview
+*     J. Add Roles Popout & Roles Overflow
+*     K. RTC Connection
+*     
+*  X. Modals
+*     A. User Modal
+*     B. Upload Modal 
+*     C. Join Guild Modal
+*     D. Messages Modal, Games Download Modal, Screenshare
+*     E. Incoming Call
+*  XI. Keyframes
+*  XII. Custom CSS
+*/
 
 /* I. App Window */
 #app-mount,
