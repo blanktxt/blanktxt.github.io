@@ -116,6 +116,32 @@
   background-color: transparent;
 }
 
+/* II. Title Bar */
+.wordmark-2iDDfm svg {
+  display: none;
+}
+
+.titleBar-AC4pGV:not(.typeMacOS-3EmCyP)::after {
+  content: "DISCORD";
+  position: absolute;
+  top: 5px;
+  left: 10px;
+  color: rgb(170, 170, 170);
+  display: block;
+  height: 16px;
+  width: fit-content;
+  pointer-events: none;
+  font-size: 14px;
+}
+
+.winButtonMinMax-PBQ2gm:hover {
+  background-color: var(--blurple);
+}
+
+.titleBar-AC4pGV {
+  background-color: transparent;
+}
+
 
 
 /* III. Channel Area */
