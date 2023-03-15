@@ -11,7 +11,6 @@
    --primary-630-hsl: var(--xp-menu-color);
    --primary-560: var(--xp-menu-color);
    --primary-560-hsl: var(--xp-menu-color);
-   --xp-menu-color: rgb(0,0,0);
 }
 .layerContainer-2lfOPe .messagesPopoutWrap-3zryHW 
 .footer-5ji8u1{
@@ -592,7 +591,7 @@
 .overlayBackground-1KgwVi{
     background:var(--xp-bg-color)}
 .layerContainer-2lfOPe 
-.userPopoutOuter-3AVBmJ.theme-dark 
+.userPopoutOuter-3AVBmJ
 .userProfileInnerThemedNonPremium-1gT-zY{
     background:var(--xp-bg-color);
     --interactive-active: var(--xp-txt-color);
@@ -1075,7 +1074,8 @@
         --xp-txt-color: #FFF;
         --xp-set-color: hsla(0, 0%, 100%, 0.8);
         --xp-hover-color: rgb(69, 64, 100);
-        --xp-zing-color: #A50}
+        --xp-zing-color: #A50;
+        --xp-menu-color: rgb(0,0,0);
     .theme-light{
         --xp-bg-color: white;
         --xp-txt-color: black;
