@@ -5,6 +5,14 @@
 .layerContainer-2lfOPe .messagesPopoutWrap-3zryHW{border-radius:8px 8px 0 0;
     max-height:calc(100vh - 50px - 120px) !important}
 
+.default-colors, :root {
+   --primary-600: rgb(0,0,0);
+   --primary-600-hsl: rgb(0,0,0);
+   --primary-630: rgb(0,0,0);
+   --primary-630-hsl: rgb(0,0,0);
+   --primary-560: rgb(0,0,0);
+   --primary-560-hsl: rgb(0,0,0);
+}
 .layerContainer-2lfOPe .messagesPopoutWrap-3zryHW 
 .footer-5ji8u1{
     display:none}
