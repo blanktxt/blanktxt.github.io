@@ -11,6 +11,7 @@
    --primary-630-hsl: var(--xp-menu-color);
    --primary-560: var(--xp-menu-color);
    --primary-560-hsl: var(--xp-menu-color);
+   --xp-menu-color: rgb(0,0,0);
 }
 .layerContainer-2lfOPe .messagesPopoutWrap-3zryHW 
 .footer-5ji8u1{
