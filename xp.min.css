@@ -4,7 +4,14 @@
 
 .layerContainer-2lfOPe .messagesPopoutWrap-3zryHW{border-radius:8px 8px 0 0;
     max-height:calc(100vh - 50px - 120px) !important}
-
+.default-colors, :root {
+   --primary-600: var(--xp-menu-color);
+   --primary-600-hsl: var(--xp-menu-color);
+   --primary-630: var(--xp-menu-color);
+   --primary-630-hsl: var(--xp-menu-color);
+   --primary-560: var(--xp-menu-color);
+   --primary-560-hsl: var(--xp-menu-color);
+}
 .layerContainer-2lfOPe .messagesPopoutWrap-3zryHW 
 .footer-5ji8u1{
     display:none}
