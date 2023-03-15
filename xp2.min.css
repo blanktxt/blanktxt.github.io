@@ -42,7 +42,7 @@
 .colorDefault-CDqZdO
 .icon-E4cW1l
 .radioSelection-1UHp0b{
-    color:#38c438
+    color:#b8aaf8
     }
 .layerContainer-2lfOPe
 .menu-1QACrS
@@ -57,7 +57,7 @@
 .menu-1QACrS .colorDefault-CDqZdO
 .icon-E4cW1l
 .check-3HZJs4{
-    color:#38c438
+    color:#aba3f0
     }
 .layerContainer-2lfOPe
 .menu-1QACrS
@@ -78,7 +78,7 @@
     width:10px;
     margin-top:-1px;
     border-radius:3px;
-    border:solid #38c438;
+    border:solid #aba3f0;
     border-width:3px 0;
     box-shadow:inset -1px -1px 2px 0 gray,inset 2px 2px 2px 0 #fff
     }
@@ -147,7 +147,7 @@
 .tab-TRrPC8{
     background:#ebe8d7;
     border-radius:3px 3px 0 0;
-    border:solid #391e28;
+    border:solid #aba3f0;
     border-width:1px 1px 0 1px;
     margin:0}
 .layerContainer-2lfOPe
@@ -669,7 +669,7 @@
 .container-3ssFyj
 .item-1BCeuB
 .box-BHImcZ.checked-1pZh2h path{
-    fill:#38c438 !important}
+    fill:#533e9b !important}
 .layerContainer-2lfOPe
 .popoutContainer-2wbmiM{
     --text-normal: black;
@@ -725,7 +725,7 @@
 .colorPickerCustom-1swUKF
 .hue-horizontal div:last-child div{
     border-radius:3px;
-    border:solid #38c438;
+    border:solid #533e9b;
     border-width:3px 0;
     box-shadow:inset -1px -1px 2px 0 gray,inset 2px 2px 2px 0 #fff}
 .layerContainer-2lfOPe
@@ -1161,8 +1161,8 @@
 .guilds-2JjMmN
 .scroller-3X7KbA
 .tutorialContainer-1pL9QS{
-    background:linear-gradient(to left, green, green 12%, rgb(56, 196, 56));
-    box-shadow:inset 0 0 3px 2px green,inset -2px 0 2px 1px rgba(255,255,255,.8);
+    background:linear-gradient(to left, rgb(83, 62, 155), rgb(83, 62, 155) 12%, rgb(153, 120, 230));
+    box-shadow:inset 0 0 3px 2px #533e9b,inset -2px 0 2px 1px rgba(255,255,255,.8);
     position:relative;
     padding:5px 0 30px 0;
     border-radius:0 0 100% 100%/0 0 12px 12px}
@@ -1268,7 +1268,7 @@
 .toolbar-3_r2xA
 .anchor-1X4H4q
 .iconWrapper-2awDjA:only-of-type :is(.icon-2xnN2Y){
-    background:linear-gradient(rgb(12, 168, 12), green);
+    background:linear-gradient(#533e9b, #533e9b);
     border-radius:4px;
     padding:5px;
     margin:5px;
@@ -1328,7 +1328,7 @@
 .chat-2ZfjoI>.title-31SJ6t
 .toolbar-3_r2xA
 .iconWrapper-2awDjA:is([aria-label="Vis medlemsliste"],[aria-label="Skjul medlemsliste"],[aria-label="Mitgliederliste ausblenden"],[aria-label="Mitgliederliste anzeigen"],[aria-label="Show Member List"],[aria-label="Hide Member List"],[aria-label="Mostrar lista de miembros"],[aria-label="Ocultar lista de miembros"],[aria-label="Mostrar lista de membros"],[aria-label="Ocultar lista de membros"],[aria-label="Masquer la liste des membres"],[aria-label="Afficher la liste des membres"],[aria-label="Prikaži popis članova"],[aria-label="Sakrij popis članova"],[aria-label="Nascondi lista dei membri"],[aria-label="Mostra lista dei membri"],[aria-label="Rodyti narių sąrašą"],[aria-label="Nerodyti narių sąrašo"],[aria-label="Taglista elrejtése"],[aria-label="Taglista megjelenítése"],[aria-label="Ledenlijst tonen"],[aria-label="Ledenlijst verbergen"],[aria-label="Skjul medlemsliste"],[aria-label="Vis medlemsliste"],[aria-label="Pokaż listę członków"],[aria-label="Ukryj listę członków"],[aria-label="Ocultar lista de membros"],[aria-label="Mostrar lista de membros"],[aria-label="Arată lista membrilor"],[aria-label="Ascunde lista membrilor"],[aria-label="Piilota jäsenluettelo"],[aria-label="Näytä jäsenluettelo"],[aria-label="Visa medlemslista"],[aria-label="Dölj medlemslista"],[aria-label="Ẩn Danh sách thành viên"],[aria-label="Hiện Danh sách thành viên"],[aria-label="Üye Listesini Göster"],[aria-label="Üye Listesini Gizle"],[aria-label="Skrýt seznam členů"],[aria-label="Zobrazit seznam členů"],[aria-label="Εμφάνιση λίστας μελών"],[aria-label="Απόκρυψη λίστας μελών"],[aria-label="Скриване на списъка с членове"],[aria-label="Показване на списъка с членове"],[aria-label="Показать список участников"],[aria-label="Скрыть список участников"],[aria-label="Сховати список учасників"],[aria-label="Показати список учасників"],[aria-label="मेम्बर लिस्ट को दिखाएं"],[aria-label="मेम्बर लिस्ट को छिपाएं"],[aria-label=ซ่อนรายชื่อสมาชิก],[aria-label=แสดงรายชื่อสมาชิก],[aria-label=显示成员名单],[aria-label=隐藏成员名单],[aria-label=メンバーリストを非表示],[aria-label=メンバーリストを表示],[aria-label=顯示成員名單],[aria-label=隱藏成員名單],[aria-label="멤버 목록 숨기기"],[aria-label="멤버 목록 표시하기"]) :is(.icon-2xnN2Y){
-    background:linear-gradient(rgb(12, 168, 12), green);
+    background:linear-gradient(#533e9b, #533e9b);
     border-radius:4px;
     padding:5px;
     margin:5px;
@@ -1820,7 +1820,7 @@
     justify-content:center;
     top:50px}body #app-mount
 .container-1eFtFS .base-2jDfDU .chat-2ZfjoI:not(.container-2IKOsH>.chat-2ZfjoI) .chatContent-3KubbW .form-3gdLxP .buttons-uaqb-5>.button-ejjZWC :is(.buttonWrapper-3YFQGJ){
-    background:linear-gradient(rgb(12, 168, 12), green);
+    background:linear-gradient(#533e9b, #533e9b);
     border-radius:4px;
     padding:5px;
     margin:5px;
