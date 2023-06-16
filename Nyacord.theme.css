@@ -1,0 +1,124 @@
+/**
+ * @name Nyacord
+ * @author nyunyukun
+ * @description Modified version of the Exponent theme done by Saltssaumure
+ * @version 1.2
+ * @source https://github.com/blanktxt/blanktxt.github.io/blob/main/xp.min.css
+*/
+
+/*
+                                                Made by:
+ _______  _______  _    _________ _______  _______  _______           __   __           _______  _______
+(  ____ \(  ___  )( \   \__   __/(  ____ \(  ____ \(  ___  )|\     /|(  \ /  )|\     /|(  ____ )(  ____ \
+| (____\/| (___) || |      | |   | (____\/| (____\/| (___) || |   | || || || || |   | || (____)|| (__  \/
+(_____  )|  ___  || |      | |   (_____  )(_____  )|  ___  || |   | || |(_)| || |   | || __  __)|  __)
+/\____) || )   ( || (____/\| |   /\____) |/\____) || )   ( || (___) || )   ( || (___) || ) \ \__| (____/\
+\_______)|/     \|(_______/)_(   \_______)\_______)|/     \|(_______)|/     \|(_______)|/   \__/(_______/
+                                         Licensed under GPL-3.0
+
+Discord: Saltssaumure#7557
+GitHub: https://github.com/Saltssaumure/xp-discord-theme
+Join Salt's Discord Themes server: https://discord.gg/uy8nKQVatp
+*/
+
+@import url("https://blanktxt.github.io/xp2.min.css");
+
+:root
+{
+    --background-image: url(https://64.media.tumblr.com/b0cd838be4cf10d77ce9bbc3bc5f9b70/tumblr_pmx52dUKip1y6ld9uo5_1280.pnj);  /* Background image. Values: any image link encased in url(). */
+    --bsod-color: rgb(132, 120, 202);  /* BSOD background colour. Values: any valid keyword/RGBA/hex etc. colour. */
+    --bsod-text: "A problem has been detected and Windows has been shut down to prevent damage to your computer. \A\A A clock interrupt was not received on a secondary processor within the allocated time interval. \A\A If this is the first time you've seen this stop error screen, restart your computer. If this screen appears again, follow these steps: \A\A Check to make sure any new hardware or software is properly installed. If this is a new installation, ask your hardware or software manufacturer for any Windows updates you might need. \A\A If problems continue, disable or remove any newly installed hardware or software. Disable BIOS memory options such as caching or shadowing. If you need to use Safe Mode to remove or disable components, restart your computer, press F8 to select Advanced Startup Options, and then throw away the whole computer. \A\A Technical information: \A\A *** STOP: USING_DISCORD \A\A ***       discord.exe - Address DEADBEEF base at 8BADF00D, DateStamp 1337C0D3 \A\A\A\A\A\A\A\A\A\A Collecting data for crash dump ... \A Initializing disk for crash dump ... \A Beginning dump of all your belongings ... \A Dumping physical memory to disk: 100% \A Physical memory dump complete. \A Contact your system administrator or technical support group for further assistance.";
+}
+
+.theme-dark {
+    --xp-bg-color: rgba(33, 16, 59, 0.5);
+    --xp-txt-color: #FFF;
+    --xp-set-color: rgba(255,255,255,0.7);
+    --xp-hover-color: rgb(80, 67, 116);
+    --xp-zing-color: #A50;
+    --xp-linkers-color: rgb(241, 167, 198);
+}
+.theme-light {
+    --xp-bg-color: white;
+    --xp-txt-color: black;
+    --xp-set-color: rgba(0,0,0,0.7);
+    --xp-hover-color: lightgrey;
+    --xp-zing-color: orange;
+}
+
+
+
+.default-colors, :root {
+   --primary-600: var(--xp-bg-color);
+   --primary-600-hsl: var(--xp-bg-color);
+   --primary-630: var(--xp-bg-color);
+   --primary-630-hsl: var(--xp-bg-color);
+   --primary-560: var(--xp-bg-color);
+   --primary-560-hsl: var(--xp-bg-color);
+   --green-330: rgb(67, 56, 104);
+   --green-360: rgb(255, 140, 230);
+   --blue-345: var(--xp-linkers-color);
+   --blue-345-hsl: var(--xp-linkers-color);
+   --blue-330: var(--xp-linkers-color);
+   --blue-330-hsl: var(--xp-linkers-color);
+}
+
+
+body #app-mount .titleBar-1it3bQ .wordmarkWindows-2dq6rw::before {
+    content: "Nyacord";
+}
+body #app-mount .container-1eFtFS .base-2jDfDU .chat-2ZfjoI:not(.container-2IKOsH>.chat-2ZfjoI) .membersWrap-3NUR2t::before{
+    content: "Mempurrs";
+}
+body #app-mount .searchBar-3TnChZ .searchBarComponent-3N7dCG::before{
+    background-color: rgba(0,0,0,0);
+    content: "time to talk meowers...................";
+    background: rgba(0,0,0,0);
+    font-size: 14px;
+    line-height: 30px;
+    font-weight: 600;
+    font-family: Tahoma,sans-serif;
+    text-shadow: 0 1px 1px #000;
+    color: #fff;
+}
+}
+body #app-mount .container-1eFtFS .base-2jDfDU .chat-2ZfjoI:not(.container-2IKOsH>.chat-2ZfjoI) .membersWrap-3NUR2t {
+    background: rgba(0,0,0,0);
+}
+
+body #app-mount .container-1eFtFS .base-2jDfDU .resizeHandle-PBRzPC {
+    background: #1e162c;
+}
+
+.theme-dark .children-3xh0VB:after {
+    background: rgba(0,0,0,0)
+}
+.theme-dark .form-3gdLxP:before {
+    background: rgba(0,0,0,0)
+}
+.chatContent-3KubbW {
+    background: rgba(0,0,0,0)  
+}
+.scrollableContainer-15eg7h{
+    background: #382c5f;
+}
+.theme-dark .themed-Hp1KC_ {
+    background: rgba(0,0,0,0);
+}
+body #app-mount .container-1eFtFS .base-2jDfDU .chat-2ZfjoI:not(.container-2IKOsH>.chat-2ZfjoI) .membersWrap-3NUR2t .members-3WRCEx .member-48YF_l{
+    background: rgba(0,0,0,0);}
+.botTagRegular-kpctgU{
+    background: rgb(87, 67, 172)
+}
+body #app-mount .container-1eFtFS .base-2jDfDU .sidebar-1tnWFu .panels-3wFtMD{
+    width:240px;
+    height:auto;
+    position:fixed;
+    bottom:-0.6px;
+    left:calc(100vw - 240px);
+    background:linear-gradient(to bottom, rgb(174, 168, 218), rgb(174, 168, 218) 12%, rgb(159, 153, 204));
+    box-shadow:inset 0 0 3px 2px #a7a1d3,inset 0 2px 2px 1px #ffffff
+}
+.unread-2wipsx {
+    background-color: var(--xp-bg-color);
+}
